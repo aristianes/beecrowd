@@ -3,7 +3,7 @@ package com.example.beecrowd;
 
 import java.util.Scanner;
 
-public class challenge1012 {
+public class ExtremamenteBasico {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int a, b, x;
